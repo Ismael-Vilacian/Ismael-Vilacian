@@ -5,8 +5,8 @@
   E-mail: ismaelv161@gmail.com<br />
   Fone: +55 62 99462-0776<br />
   
-  =========================================================================================
-  
+----
+
 - 👋 Hello, my name is @ Ismael-Vilacian.
 - 👀 I want a good learning with new technologies, and also to improve myself with technologies already consolidated in the market.
 - 🌱 I am currently studying the seventh period of computer engineering, I am studying spring framework, C # .net and MySQL database.
